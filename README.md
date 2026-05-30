@@ -1,6 +1,6 @@
 # VaR analysis of EUR/PLN
 
-We estimate several GARCH-type models (GARCH, EGARCH, AR-GARCH, GARCH-in-mean, GARCH-t) in order to predict yearly $ VaR_{0.05\%} $ and $ VaR_{99.5\%} $. We check different quantiles as a decrease or increase of an exchange rate influences assets and liabilities. It is not generally clear whether the cumulative effect is positive or negative - monitoring both allows us a firm to check which effect is greater in a real scenario.
+We estimate several GARCH-type models (GARCH, EGARCH, AR-GARCH, GARCH-in-mean, GARCH-t) in order to predict yearly $ VaR_{0.05\%} $ and $ VaR_{99.5\%} $. We check different quantiles as a decrease or increase of an exchange rate influences assets and liabilities. It is not generally clear whether the cumulative effect is positive or negative - monitoring both allows a firm to check which effect is greater in a real scenario.
 
 # Structure
 
